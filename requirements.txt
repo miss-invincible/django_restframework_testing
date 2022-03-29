@@ -40,7 +40,7 @@ ndg-httpsclient==0.4.0
 numpy==1.8.2
 oauthlib==1.0.0
 oneconf==0.3.8
-paramiko==1.15.2
+paramiko==2.10.1
 pathlib2==2.1.0
 pexpect==3.2
 pickleshare==0.7.2
